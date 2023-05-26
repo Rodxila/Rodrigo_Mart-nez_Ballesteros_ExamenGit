@@ -8,5 +8,5 @@ public class Clase {
 		System.out.print(Chistrin);
 	}
 	
-	boolean IvanEsGay= true;
+	boolean IvanEsPedazoDeGay=true;
 }
