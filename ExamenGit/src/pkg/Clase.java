@@ -6,6 +6,9 @@ public class Clase {
 	boolean factores = true;
 	while(factores!=true){
 		System.out.print(Chistrin);
+		
+		
 	}
+	int abichuela = 30;
 	
 }
