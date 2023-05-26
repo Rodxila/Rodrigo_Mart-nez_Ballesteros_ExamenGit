@@ -7,5 +7,5 @@ public class Clase {
 	while(factores!=true){
 		System.out.print(Chistrin);
 	}
-	
+	String cabezabuque = true;
 }
